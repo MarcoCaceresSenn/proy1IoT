@@ -26,3 +26,4 @@ Cargue el código en la placa Arduino.
 Una vez que el código esté cargado, el sistema comenzará a monitorear los niveles de CO en el ambiente.
 Si la concentración de CO supera un valor umbral (en este caso, 600), el buzzer comenzará a emitir una alarma sonora.
 La alarma continuará hasta que los niveles de CO disminuyan o hasta que se intervenga manualmente.
+También puede utilizar el código de processing para activar un botón que detiene esta alarma.
